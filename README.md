@@ -28,10 +28,10 @@ guardadas com segurança e é aí que entra o Spring Security.
 
 
 ## **Demonstração**
-- Entrando no banco de dados
+- Entrando no banco de dados:
 
 ![bd criptografar senha](https://user-images.githubusercontent.com/86840722/234860428-9ca35acf-291c-4ccc-8410-72b7759907f8.gif)
 
-- Visualizando os dado criptografados
+- Visualizando os dado criptografados:
 
 ![bd id, login e senha criptograda](https://user-images.githubusercontent.com/86840722/234860793-13e6dfec-aa79-458b-995c-98e01496d823.gif)
