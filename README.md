@@ -20,9 +20,9 @@ guardadas com segurança e é aí que entra o Spring Security.
 **Passos para Executar o Projeto**
 Clone esse projeto para sua máquina
 Execute a API
-Abra o arquivo index em um navegador
-Insira uma carga de dados no banco
-Ex: INSERT INTO usuario (email, password) values ('teste@teste.com' , '1234') Obs: Banco utilizado -> postgree.
+Abra o arquivo ...
+
+
 
 
 **Demonstração**
