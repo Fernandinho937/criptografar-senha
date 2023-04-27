@@ -1,23 +1,23 @@
 # criptografar-senha
 
-### **Sobre**
+## **Sobre**
 
 Nesse projeto, visando a segurança, criptografamos a senha dos nossos usuários utilizando os pasword encoders e gravamos tudo no banco de dados H2.
 Ao desenvolver uma API rest com Java e Spring Boot é muito comum as aplicações precisarem de um um usuário e senha e essas informações precisam ser 
 guardadas com segurança e é aí que entra o Spring Security.
 
 
-**Tecnologias**
+## **Tecnologias**
 - Java
 - SpringBoot
 - Spring Security
 - API Rest
 
 
-**Features**
+## **Features**
 [ x ] Criptografar senhas
 
-**Passos para Executar o Projeto**
+## **Passos para Executar o Projeto**
 - Clone esse projeto para sua máquina
 - Start a aplicação utilizando o arquivo CriptografarSenhaApplication.java
 - Abra o banco de dados H2 em outra aba através do endereço: localhost:8080/h2-console pode ver no primeiro gif abaixo na demonstração
@@ -27,7 +27,7 @@ guardadas com segurança e é aí que entra o Spring Security.
 
 
 
-**Demonstração**
+## **Demonstração**
 - Entrando no banco de dados
 
 ![bd criptografar senha](https://user-images.githubusercontent.com/86840722/234860428-9ca35acf-291c-4ccc-8410-72b7759907f8.gif)
